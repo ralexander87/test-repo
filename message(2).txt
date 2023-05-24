@@ -1,0 +1,40 @@
+Group name     HR Share RW
+Comment
+
+Members
+
+-------------------------------------------------------------------------------
+abbie.moss               alan.thompson            amanda.ward
+amelia.taylor            amy.dixon                antony.bailey
+barbara.hughes           beth.osborne             billy.khan
+brett.murray             callum.wilson            charlie.holmes
+clare.norris             clare.thompson           dale.thompson
+danny.ward               debra.simpson            diana.cooper
+diane.stone              dominic.hall             donald.holden
+eileen.evans             elliot.murray            eric.cross
+francis.watson           gail.shaw                gary.harper
+gemma.carroll            george.hughes            gerard.hughes
+graeme.burns             graeme.turner            graham.scott
+helen.barker             helen.james              holly.booth
+howard.davies1           jacob.waters             jade.elliott
+jake.cooke               jake.taylor              jane.rogers
+janet.bell               jay.ball                 jean.murphy
+jeremy.wilson            jill.jennings            joe.bennett
+jordan.roberts           joyce.clayton            julie.bennett
+karen.price              karen.wood               karl.wright
+kate.james               kate.jones               keith.lambert
+kelly.banks              kieran.james             kyle.hunt
+kyle.jones               lawrence.lewis           leanne.willis
+lewis.hawkins            linda.hopkins            lindsey.jones
+lynn.johnson             margaret.james           maria.hutchinson
+marilyn.hyde             marion.storey            mathew.edwards
+matthew.adams            matthew.lloyd            max.oliver
+megan.brooks             natalie.hughes           neil.francis
+nicole.jackson           oliver.freeman           patricia.smith
+paula.osullivan          philip.jones             rachel.price
+rebecca.turnbull         ricky.clayton            robert.ball
+ronald.howard            rosie.anderson           samantha.mcdonald
+shane.robinson           stewart.fletcher         stuart.bates
+stuart.tomlinson         teresa.bartlett          terry.brown
+toby.blake               toby.nicholson           trevor.foster
+vanessa.ferguson         vincent.lowe
